@@ -55,13 +55,13 @@
 			</plugin>			
 		</plugins>
 	</build>
-	
+
 <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>devops-training-snapshots</name>
+        <name>mint-snapshots</name>
         <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
-</distributionManagement>	
-	
+</distributionManagement>
+
 </project>
